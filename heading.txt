@@ -1,0 +1,5 @@
+/my-portfolio
+│── index.html  (Main page)
+│── style.css   (For styling)
+│── script.js   (For interactivity)
+│── assets/     (Images, icons, etc.)
